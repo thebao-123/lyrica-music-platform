@@ -1,0 +1,22 @@
+# Dependencies & Build
+node_modules/
+.next/
+target/
+build/
+dist/
+
+# Environment & Secrets
+.env
+.env.local
+application-local.properties
+
+# IDE & OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Media test files
+*.mp3
+*.mp4
