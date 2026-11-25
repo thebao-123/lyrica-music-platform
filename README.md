@@ -1,0 +1,1 @@
+# lyrica-music-platform
